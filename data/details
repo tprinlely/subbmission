@@ -1,5 +1,5 @@
-{
-    "datausers": [{
+[
+    {
             "username": "JakeWharton",
             "name": "Jake Wharton",
             "avatar": "@drawable/user1",
@@ -100,4 +100,3 @@
             "following": 10
         }
     ]
-}
